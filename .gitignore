@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+
+
+data/
+models/
+outputs/
+
+venv/
+__pycache__/
+*.pyc
+data/
+models/
+outputs/
