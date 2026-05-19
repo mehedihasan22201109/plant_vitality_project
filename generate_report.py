@@ -1,7 +1,6 @@
 """
 generate_report.py — Professional DOCX Report Generator
 Crop Yield Prediction & Plant Disease Detection
-Author: Mahinur Akhter | ID: 22201100
 """
 
 import sys, os, subprocess
