@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 # ============================================================
 # Dataset Downloader — All 10 Tabular + 4 Image Datasets
-# Author: Mahinur Akhter (22201100)
 #
 # Usage (WSL):
 #   bash download_datasets.sh

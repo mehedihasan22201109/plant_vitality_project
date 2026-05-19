@@ -1,7 +1,4 @@
 """
-generate_report_latex.py
-Generates a professional LaTeX (.tex) file and compiles to PDF.
-Author: Mahinur Akhter | ID: 22201100
 """
 
 import sys, os, subprocess, shutil
